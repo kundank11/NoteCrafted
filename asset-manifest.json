@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NoteCrafted/static/css/main.d2b287f0.css",
+    "main.js": "/NoteCrafted/static/js/main.3644d507.js",
+    "index.html": "/NoteCrafted/index.html",
+    "main.d2b287f0.css.map": "/NoteCrafted/static/css/main.d2b287f0.css.map",
+    "main.3644d507.js.map": "/NoteCrafted/static/js/main.3644d507.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2b287f0.css",
+    "static/js/main.3644d507.js"
+  ]
+}
