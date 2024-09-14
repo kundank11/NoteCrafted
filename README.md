@@ -9,12 +9,7 @@
 - **Responsive Design**: Fully responsive and works on desktop, tablet, and mobile devices.
 - **LocalStorage Integration**: Notes are saved locally so that users can access them even after refreshing the page.
 
-## Technologies Used
+## Live Demo
 
-- **React.js**: Front-end JavaScript library for building user interfaces.
-- **HTML5 & CSS3**: For structuring and styling the app.
-- **JavaScript (ES6+)**: Modern JavaScript features for interactivity and logic.
-- **LocalStorage**: For storing notes persistently in the user's browser.
+You can check out the live demo here: [NoteCrafted Live](https://kundank11.github.io/NoteCrafted/)
 
-Demo
-You can check out the live demo of the project here: [NoteCrafted Live](https://kundank11.github.io/NoteCrafted/)
